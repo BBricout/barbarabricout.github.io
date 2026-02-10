@@ -11,7 +11,7 @@ output:
 
 <img src="img/barbara.jpg" alt="barbara bricout" width = "280px" align="right"> </img>
 
-I am a PhD student in applied statistics at [LPSM] (https://www.lpsm.paris/), [MIA Paris Saclay](https://mia-ps.inrae.fr/) and [Tour du Valat] (https://tourduvalat.org/).
+I am a PhD student in applied statistics at LPSM (https://www.lpsm.paris/), MIA Paris Saclay(https://mia-ps.inrae.fr/) and Tour du Valat (https://tourduvalat.org/).
 
 I am working on inferring the presence and abundance of rare waterbirds species from scarce data.
 
@@ -35,5 +35,6 @@ LPSM, Sorbonne Université </br>
 
     
 *Last update on `r format(Sys.time(), '%d/%m/%y')` *
+
 
 
