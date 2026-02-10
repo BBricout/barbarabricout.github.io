@@ -11,10 +11,10 @@ navbar:
           href: https://github.com/BBricout
         - text: "LinkedIn"
           icon: fab fa-linkedin
-          href: https://github.com/BBricout
+          href: https://www.linkedin.com/in/barbara-bricout-217297219/?originalSubdomain=fr
         - text: "Orcid"
-      	  icon: fas fa-book-open
-      	  href: https://orcid.org/0009-0008-1094-7210
+          icon: fas fa-book-open
+          href: https://orcid.org/0009-0008-1094-7210
 
 output:
   html_document:
