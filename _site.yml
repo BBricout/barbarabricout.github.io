@@ -1,0 +1,24 @@
+name: "Barbara Bricout"
+output_dir: "."
+
+navbar:
+  title: "Barbara Bricout"
+  right:
+    - text: "On the web"
+      menu:
+        - text: "GitHub"
+          icon: fab fa-github
+          href: https://github.com/BBricout
+        - text: "LinkedIn"
+          icon: fab fa-linkedin
+          href: https://github.com/BBricout
+        - text: "Orcid"
+      	  icon: fas fa-book-open
+      	  href: https://orcid.org/0009-0008-1094-7210
+
+output:
+  html_document:
+    theme: flatly
+    highlight: haddock
+    css: styles.css
+
